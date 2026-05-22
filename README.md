@@ -17,7 +17,7 @@ An advanced school management system developed for secondary schools using PHP, 
 ## Screenshots
 
 ### Secure Login
-![Login](login-screen.jpg)
+![Login](login_screen.jpg)
 
 ### Results Module
 ![Results](results-module.jpg)
